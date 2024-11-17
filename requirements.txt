@@ -1,4 +1,5 @@
 opencv-python
+tempfile
 streamlit
 opencv-python-headless
 numpy
